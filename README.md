@@ -33,7 +33,7 @@ The system owns interpretation.
 
 ## Architecture
 
-```
+```mermaid
 flowchart TB
 
 EngineStage["EngineStage (Frame Owner)"]
@@ -175,5 +175,6 @@ This repository exposes the architectural structure of LOST for reference purpos
 The production-ready package — including demos, optimized modules, audio integration, performance enhancements, and additional commercial features — is distributed separately.
 
 The commercial distribution contains modules and optimizations that are not included in this repository.
+
 
 
